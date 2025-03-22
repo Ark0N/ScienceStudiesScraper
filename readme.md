@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 
-**Science Study Scraper** is a powerful tool designed to automatically find and download scientific studies from open access repositories on any topic in the scientific and medical field. This tool is part of the https://bio-hacking.blog and is used as an research tool.
+**Science Study Scraper** is a powerful tool designed to automatically find and download scientific studies from open access repositories on any topic in the scientific and medical field. This tool is part of https://bio-hacking.blog and is used as a research tool.
 
 ## 🔍 Features
 
