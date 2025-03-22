@@ -152,8 +152,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgements
 
-- The scientific communities maintaining open access repositories
-- Contributors to the Python libraries that make this project possible
+This project was made possible thanks to:
+
+- Open-source community - For the libraries and frameworks that form the foundation of this project
+- Claude AI 3.7 Sonnet - For assistance with code development, debugging, and documentation
+- Scientific publishing platforms - For making research accessible and inspiring this tool
+- Friends and colleagues - For your support throughout the development process
 
 ---
 
